@@ -1,0 +1,23 @@
+# --- UI ---
+PySide6
+
+# --- Machine Learning (used in later milestones) ---
+scikit-learn
+pandas
+joblib
+
+# --- NLP preprocessing (used in later milestones) ---
+nltk
+
+# --- Input extraction (used in later milestones) ---
+pytesseract
+Pillow
+PyMuPDF
+moviepy
+vosk
+
+# --- Reports (used in later milestones) ---
+reportlab
+
+# --- Testing ---
+pytest
